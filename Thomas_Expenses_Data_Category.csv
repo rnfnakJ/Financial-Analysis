@@ -1,0 +1,293 @@
+Date,Description,Sub Category,Category,Amount,Transaction Type,Account 
+2017-12-28,Bge,Gas,Utilities,172.9,debit,Ally Checking
+2018-01-01,Harris Teeter,Groceries,Food and dining,6,debit,Chase CC
+2018-01-01,Shiso Tavern,Restaurants,Food and dining,75.5,debit,Chase CC
+2018-01-01,Canton Crossing Wine,Wine and spirits ,Food and dining,22.9,debit,Chase CC
+2018-01-02,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,100,debit,Ally Checking
+2018-01-02,Check 1003,Uncategorized Checks,Miscellaneous,50,debit,Ally Checking
+2018-01-03,Zia,Restaurants,Food and dining,16.4,debit,Chase CC
+2018-01-04,Chipotle,Restaurants,Food and dining,9.1,debit,Chase CC
+2018-01-05,Royal Farms,Restaurants,Food and dining,25.7,debit,Chase CC
+2018-01-07,Wal-Mart,Groceries,Food and dining,42.2,debit,Chase CC
+2018-01-07,Cunningham's,Restaurants,Food and dining,11.7,debit,Chase CC
+2018-01-07,Holy Frijoles,Restaurants,Food and dining,53,debit,Chase CC
+2018-01-07,Pasta Mista,Restaurants,Food and dining,6.1,debit,Chase CC
+2018-01-08,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,100,debit,Ally Checking
+2018-01-08,Transfer from BofA Core Checking,Payment,Credit,-563,credit,Chase CC
+2018-01-09,Aramark,Groceries,Food and dining,17,debit,Chase CC
+2018-01-09,Thank You Web,Payment,Credit,-766.2,credit,Chase CC
+2018-01-10,Eatalian Bistro,Restaurants,Food and dining,7.3,debit,Chase CC
+2018-01-11,Wawa,Convenience Store,Food and dining,7.4,debit,Chase CC
+2018-01-12,Falafel House,Restaurants,Food and dining,11.6,debit,Chase CC
+2018-01-12,E-ZPass,"Tolls, Fees, & Tickets",Transportation,25,debit,Chase CC
+2018-01-14,GUNTHER N CO,Financial services,Miscellaneous,107.3,debit,Southwest CC
+2018-01-14,Chipotle,Restaurants,Food and dining,9.1,debit,Chase CC
+2018-01-15,Bj Fuel,Gas,Utilities,26.3,debit,Chase CC
+2018-01-15,HARRISTEETER #392,Groceries,Food and dining,76.9,debit,Southwest CC
+2018-01-15,Spartan Pizzaria Bal,Restaurants,Food and dining,13.6,debit,Chase CC
+2018-01-15,VITAMINSHOPPE655,Vitamin,Health care,40,debit,Southwest CC
+2018-01-16,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,100,debit,Ally Checking
+2018-01-16,SHELL OIL 57525762704,Gas,Utilities,34.3,debit,Southwest CC
+2018-01-16,Floyds 99 Barbershops,Haircut,Personal care,31,debit,Chase CC
+2018-01-17,HARRISTEETER #392,Groceries,Food and dining,58.4,debit,Southwest CC
+2018-01-17,Towson Hot Bagels,Restaurants,Food and dining,5.3,debit,Chase CC
+2018-01-19,Wawa,Convenience Store,Food and dining,27.8,debit,Chase CC
+2018-01-19,SAFEWAY #1481,Groceries,Food and dining,37.8,debit,Southwest CC
+2018-01-19,Chipotle,Restaurants,Food and dining,7.6,debit,Chase CC
+2018-01-19,Pasta Mista,Restaurants,Food and dining,8.2,debit,Chase CC
+2018-01-20,HONEY GROW STORE #113,Restaurants,Food and dining,40.3,debit,Southwest CC
+2018-01-21,Aramark,Groceries,Food and dining,12,debit,Chase CC
+2018-01-21,HIGHLANDTOWN GREAT,NA,Miscellaneous,12.5,debit,Southwest CC
+2018-01-22,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-01-22,Exxon,Gas,Utilities,27.4,debit,Chase CC
+2018-01-22,Mount Pleasant SC,Golf,Entertainment,28,debit,Chase CC
+2018-01-22,Mount Pleasant SC,Golf,Entertainment,8,debit,Chase CC
+2018-01-22,Levelup Thb,Restaurants,Food and dining,7.8,debit,Chase CC
+2018-01-23,Balto City,Government fee,Housing,123.7,debit,Ally Checking
+2018-01-23,TRADER JOE'S #655  QPS,Groceries,Food and dining,65.2,debit,Southwest CC
+2018-01-23,MATTHEW'S HALLMARK #67,Household goods,Household,2.1,debit,Southwest CC
+2018-01-23,USPS,Shipping and Handling Expenses,Miscellaneous,6.7,debit,Chase CC
+2018-01-24,Chick-Fil-A,Restaurants,Food and dining,7.1,debit,Chase CC
+2018-01-26,Transfer to Marriott,iTunes ,Entertainment,10,debit,Chase CC
+2018-01-26,AMBASSADOR DINING ROOM,Restaurants,Food and dining,137,debit,Southwest CC
+2018-01-26,Burger Brothers,Restaurants,Food and dining,10.6,debit,Chase CC
+2018-01-26,Chipotle,Restaurants,Food and dining,9.1,debit,Chase CC
+2018-01-26,SUNSET RAW JUICE BAR LLC,Restaurants,Food and dining,17.5,debit,Southwest CC
+2018-01-27,SAFEWAY #1481,Groceries,Food and dining,69.1,debit,Southwest CC
+2018-01-27,CANTON ACE HARDWARE,Household goods,Household,20.8,debit,Southwest CC
+2018-01-28,Dunkin Donuts,Coffee shops & Bakeries,Food and dining,2.6,debit,Chase CC
+2018-01-28,Wawa,Convenience Store,Food and dining,10.3,debit,Chase CC
+2018-01-28,Sunoco,Gas,Utilities,26.1,debit,Chase CC
+2018-01-28,Great,NA,Miscellaneous,3.9,debit,Chase CC
+2018-01-29,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-01-29,7-Eleven,Convenience Store,Food and dining,5.5,debit,Chase CC
+2018-01-29,Exxon,Gas,Utilities,27.9,debit,Chase CC
+2018-01-29,TRADER JOE'S #655  QPS,Groceries,Food and dining,16.5,debit,Southwest CC
+2018-01-29,Thank You Web,Payment,Credit,-366.6,credit,Chase CC
+2018-01-30,Sticky Rice MD LLC,Restaurants,Food and dining,58.5,debit,Chase CC
+2018-01-30,E-ZPass,"Tolls, Fees, & Tickets",Transportation,25,debit,Chase CC
+2018-01-31,Amazon,Amazon,Household,37.3,debit,Chase CC
+2018-01-31,SAFEWAY #1481,Groceries,Food and dining,25.8,debit,Southwest CC
+2018-01-31,CANTON ACE HARDWARE,Household goods,Household,26.1,debit,Southwest CC
+2018-01-31,Royal Farms,Restaurants,Food and dining,3.4,debit,Chase CC
+2018-02-01,Bge,Gas,Utilities,291.7,debit,Ally Checking
+2018-02-01,Payment Thank You - Web,Payment,Credit,-1188.5,credit,Southwest CC
+2018-02-01,Chipotle,Restaurants,Food and dining,7.6,debit,Chase CC
+2018-02-01,Zia,Restaurants,Food and dining,9,debit,Chase CC
+2018-02-03,WAWA 160      00001602,Convenience Store,Food and dining,4.8,debit,Southwest CC
+2018-02-03,WALGREENS #5409,Vitamin,Health care,53.9,debit,Southwest CC
+2018-02-04,ROYAL FARMS  094  Q79,Convenience Store,Food and dining,25,debit,Southwest CC
+2018-02-04,Shell,Gas,Utilities,39.1,debit,Chase CC
+2018-02-04,Shell,Gas,Utilities,25.4,debit,Chase CC
+2018-02-04,Giant,Groceries,Food and dining,10.3,debit,Chase CC
+2018-02-04,HARRISTEETER #392,Groceries,Food and dining,42.3,debit,Southwest CC
+2018-02-04,HARRISTEETER #392,Groceries,Food and dining,40.4,debit,Southwest CC
+2018-02-04,On The Border,Restaurants,Food and dining,17,debit,Chase CC
+2018-02-05,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-02-05,Mission Bbq,Groceries,Food and dining,10.6,debit,Chase CC
+2018-02-05,Levelup Thb,Restaurants,Food and dining,3.4,debit,Chase CC
+2018-02-05,Check 1004,Uncategorized Checks,Miscellaneous,150,debit,Ally Checking
+2018-02-05,Check 1005,Uncategorized Checks,Miscellaneous,100,debit,Ally Checking
+2018-02-06,SAFEWAY #1481,Groceries,Food and dining,22.8,debit,Southwest CC
+2018-02-07,Eatalian Bistro,Restaurants,Food and dining,6.3,debit,Chase CC
+2018-02-08,ANNABEL LEE TAVERN,Restaurants,Food and dining,56.5,debit,Southwest CC
+2018-02-09,HARRISTEETER #392,Groceries,Food and dining,98.8,debit,Southwest CC
+2018-02-09,THE FRESH MARKET I,NA,Miscellaneous,3.8,debit,Southwest CC
+2018-02-09,Chick-Fil-A,Restaurants,Food and dining,8.9,debit,Chase CC
+2018-02-09,Cravin Rd Ll,Restaurants,Food and dining,10.1,debit,Chase CC
+2018-02-09,TARGET        00028456,Target,Household,3.8,debit,Southwest CC
+2018-02-10,TARGET        00028456,Target,Household,3,debit,Southwest CC
+2018-02-11,ROYAL FARMS  094  Q79,Convenience Store,Food and dining,5.5,debit,Southwest CC
+2018-02-11,Exxon,Gas,Utilities,27.9,debit,Chase CC
+2018-02-11,Chick-Fil-A,Restaurants,Food and dining,6.1,debit,Chase CC
+2018-02-11,Chipotle,Restaurants,Food and dining,9.7,debit,Chase CC
+2018-02-12,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-02-12,BLUE MOON CAFE,Coffee shops & Bakeries,Food and dining,23.8,debit,Southwest CC
+2018-02-12,Tst Michael Cafe,Coffee shops & Bakeries,Food and dining,42.9,debit,Chase CC
+2018-02-12,TRADER JOE'S #655  QPS,Groceries,Food and dining,18.9,debit,Southwest CC
+2018-02-13,ROYAL FARMS  063  Q79,Convenience Store,Food and dining,26.1,debit,Southwest CC
+2018-02-14,Balto City,Government fee,Housing,66.5,debit,Ally Checking
+2018-02-14,Mandarin Express Tow,Restaurants,Food and dining,7.8,debit,Chase CC
+2018-02-15,Golf Galaxy Inc.,Golf,Entertainment,20,debit,Chase CC
+2018-02-15,Fresh Market,Groceries,Food and dining,31.7,debit,Chase CC
+2018-02-15,BARK! PIKESVILLE,Pet supply,Household,36,debit,Southwest CC
+2018-02-15,Cheesecake Factory,Restaurants,Food and dining,42.8,debit,Chase CC
+2018-02-15,Einstein Bros,Restaurants,Food and dining,5.9,debit,Chase CC
+2018-02-16,Chipotle,Restaurants,Food and dining,7.6,debit,Chase CC
+2018-02-17,AMAZON RESTAURANTS,Restaurants,Food and dining,32.2,debit,Southwest CC
+2018-02-18,Game Day Warehouse,Game,Entertainment,30.8,debit,Chase CC
+2018-02-18,HARRISTEETER #392,Groceries,Food and dining,60.6,debit,Southwest CC
+2018-02-18,Ace Hardware,Home Improvement,Housing,4.2,debit,Chase CC
+2018-02-18,Cunningham's,Restaurants,Food and dining,7.9,debit,Chase CC
+2018-02-19,Old Navy,Clothing,Household,25.4,debit,Chase CC
+2018-02-19,Shell,Gas,Utilities,27.1,debit,Chase CC
+2018-02-19,Cunningham's,Restaurants,Food and dining,10,debit,Chase CC
+2018-02-19,E-ZPass,"Tolls, Fees, & Tickets",Transportation,32.5,debit,Chase CC
+2018-02-20,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-02-20,Cup Love,Coffee shops & Bakeries,Food and dining,14.4,debit,Chase CC
+2018-02-21,Floyds 99 Barbershops,Haircut,Personal care,39,debit,Chase CC
+2018-02-21,Brown Rice Korean,Restaurants,Food and dining,10.1,debit,Chase CC
+2018-02-22,HIGHLANDTOWN GREAT,NA,Miscellaneous,2.4,debit,Southwest CC
+2018-02-22,Towson Hot Bagels,Restaurants,Food and dining,3.6,debit,Chase CC
+2018-02-23,Pine Ridge Driving,Golf,Entertainment,12.5,debit,Chase CC
+2018-02-23,Chipotle,Restaurants,Food and dining,9.1,debit,Chase CC
+2018-02-23,MATHEW'S PIZZA,Restaurants,Food and dining,11.9,debit,Southwest CC
+2018-02-23,E-ZPass,"Tolls, Fees, & Tickets",Transportation,25,debit,Chase CC
+2018-02-24,SAFEWAY #1481,Groceries,Food and dining,10.7,debit,Southwest CC
+2018-02-24,CANTON ACE HARDWARE,Household goods,Household,7.4,debit,Southwest CC
+2018-02-25,CLADDAGH PUB,Restaurants,Food and dining,14.8,debit,Southwest CC
+2018-02-25,Towson Hot Bagels,Restaurants,Food and dining,3.6,debit,Chase CC
+2018-02-26,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-02-26,Exxon,Gas,Utilities,25.6,debit,Chase CC
+2018-02-26,TRADER JOE'S #655  QPS,Groceries,Food and dining,92.7,debit,Southwest CC
+2018-02-26,iTunes,iTunes,Entertainment,10,debit,Chase CC
+2018-02-26,Magerks Pub,Restaurants,Food and dining,20.9,debit,Chase CC
+2018-02-27,Amazon Services-Kindle,Kindle,Entertainment,13,debit,Southwest CC
+2018-02-27,TARGET        00028456,Return,Credit,-15.9,Credit,Southwest CC
+2018-02-27,USPS,Shipping and Handling Expenses,Miscellaneous,3.5,debit,Chase CC
+2018-02-27,TARGET        00028456,Target,Household,73,debit,Southwest CC
+2018-02-28,TARGET        00028456,Return,Credit,-30.7,Credit,Southwest CC
+2018-02-28,TARGET        00028456,Target,Household,8.7,debit,Southwest CC
+2018-03-01,Pine Ridge Driving,Golf,Entertainment,10,debit,Chase CC
+2018-03-01,Chipotle,Restaurants,Food and dining,7.6,debit,Chase CC
+2018-03-02,SAFEWAY #1481,Groceries,Food and dining,29.3,debit,Southwest CC
+2018-03-02,SINAI HOSPITAL OF BALTIMO,Medical ,Health care,3,debit,Southwest CC
+2018-03-02,Thank You Web,Payment,Credit,-822.6,credit,Chase CC
+2018-03-02,Social Leagues,Sports,Entertainment,59,debit,Chase CC
+2018-03-03,HARRISTEETER #392,Groceries,Food and dining,95.7,debit,Southwest CC
+2018-03-03,CHEESECAKE TOWSON,Restaurants,Food and dining,45.8,debit,Southwest CC
+2018-03-04,Sinai Hospital,Medical ,Health care,3,debit,Chase CC
+2018-03-04,Point In Towson,NA,Miscellaneous,9.9,debit,Chase CC
+2018-03-04,THB OF CANTON,NA,Miscellaneous,13.8,debit,Southwest CC
+2018-03-04,Payment Thank You - Web,Payment,Credit,-971.8,credit,Southwest CC
+2018-03-04,TARGET        00028456,Target,Household,33.7,debit,Southwest CC
+2018-03-05,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-03-05,Frontpoint Security,Home Security,Housing,47.7,debit,Ally Checking
+2018-03-05,Cunningham's,Restaurants,Food and dining,3.7,debit,Chase CC
+2018-03-05,CHARM CITY VET HOSPITAL,Vet services,Health care,167.3,debit,Southwest CC
+2018-03-06,Five Guys,Restaurants,Food and dining,13,debit,Chase CC
+2018-03-07,Canton Cmf,NA,Miscellaneous,25.9,debit,Chase CC
+2018-03-07,Eatalian Bistro,Restaurants,Food and dining,8.9,debit,Chase CC
+2018-03-08,Www Wellputt.com,Golf,Entertainment,156.2,debit,Chase CC
+2018-03-09,Daily Grind Inc,Coffee shops & Bakeries,Food and dining,3.8,debit,Chase CC
+2018-03-09,WEGMANS OWINGS MILLS #125,Groceries,Food and dining,86.3,debit,Southwest CC
+2018-03-09,CHARM CITY VET HOSPITAL,Vet services,Health care,55,debit,Southwest CC
+2018-03-11,Pabc Multi Space,Parking,Transportation,2,debit,Chase CC
+2018-03-11,Pabc Multi Space,Parking,Transportation,1.5,debit,Chase CC
+2018-03-11,PAPA JOHN'S #00713,Restaurants,Food and dining,20.2,debit,Southwest CC
+2018-03-11,Teriyaki Madness,Restaurants,Food and dining,11.1,debit,Chase CC
+2018-03-12,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-03-12,ROYAL FARMS  063  Q79,Convenience Store,Food and dining,24.3,debit,Southwest CC
+2018-03-12,HARRISTEETER #392,Groceries,Food and dining,40.9,debit,Southwest CC
+2018-03-12,TRADER JOE'S #655  QPS,Groceries,Food and dining,21.8,debit,Southwest CC
+2018-03-12,Diamondback Brewing Company LLC,Restaurants,Food and dining,28,debit,Chase CC
+2018-03-12,Little Havana,Restaurants,Food and dining,32.7,debit,Chase CC
+2018-03-12,TARGET        00028456,Return,Credit,-10.1,Credit,Southwest CC
+2018-03-13,Great,NA,Miscellaneous,3.5,debit,Chase CC
+2018-03-13,Royal Farms,Restaurants,Food and dining,3.4,debit,Chase CC
+2018-03-13,TARGET        00028456,Target,Household,72.5,debit,Southwest CC
+2018-03-14,Daily Grind Inc,Coffee shops & Bakeries,Food and dining,5.3,debit,Chase CC
+2018-03-15,SWA INFLIGHT WIFI,Inflight WiFi,Utilities,8,debit,Southwest CC
+2018-03-15,Chick-Fil-A,Restaurants,Food and dining,14.2,debit,Chase CC
+2018-03-17,Amazon Services-Kindle,Kindle,Entertainment,13,debit,Southwest CC
+2018-03-17,MANCHURIAN RICE CO,Restaurants,Food and dining,27.4,debit,Southwest CC
+2018-03-18,Redemption,Refund,Credit,-156.2,credit,Chase CC
+2018-03-19,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-03-19,SAFEWAY #1481,Groceries,Food and dining,65.7,debit,Southwest CC
+2018-03-20,Amazon,Amazon,Household,6.3,debit,Chase CC
+2018-03-20,Balto City,Government fee,Housing,75.6,debit,Ally Checking
+2018-03-21,THB OF CANTON,NA,Miscellaneous,7.5,debit,Southwest CC
+2018-03-21,Pmi Gar 1530 Thames Street,Parking,Transportation,15,debit,Chase CC
+2018-03-21,Lucias,Restaurants,Food and dining,9.4,debit,Chase CC
+2018-03-22,7-Eleven,Convenience Store,Food and dining,1.6,debit,Chase CC
+2018-03-22,CHARM CITY VET HOSPITAL,Vet services,Health care,78.5,debit,Southwest CC
+2018-03-23,Amazon.com,Amazon,Household,37.8,debit,Southwest CC
+2018-03-23,McDonald's,Restaurants,Food and dining,9.5,debit,Chase CC
+2018-03-23,Vikki Fells Point,Restaurants,Food and dining,6.4,debit,Chase CC
+2018-03-24,TARGET        00012658,Target,Household,20.1,debit,Southwest CC
+2018-03-25,SHELL OIL 57525762704,Gas,Utilities,36.2,debit,Southwest CC
+2018-03-25,HARRISTEETER #392,Groceries,Food and dining,64.8,debit,Southwest CC
+2018-03-25,Pabc Multi Space,Parking,Transportation,8,debit,Chase CC
+2018-03-25,Chipotle,Restaurants,Food and dining,9.1,debit,Chase CC
+2018-03-25,Dudas Tavern,Restaurants,Food and dining,30,debit,Chase CC
+2018-03-25,Lucias,Restaurants,Food and dining,8.9,debit,Chase CC
+2018-03-25,TARGET        00028456,Target,Household,32.9,debit,Southwest CC
+2018-03-25,VITAMINSHOPPE655,Vitamin,Health care,20,debit,Southwest CC
+2018-03-26,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-03-26,Pine Ridge Driving,Golf,Entertainment,5,debit,Chase CC
+2018-03-26,iTunes,iTunes,Entertainment,10,debit,Chase CC
+2018-03-26,Souris Saloon,Restaurants,Food and dining,14.5,debit,Chase CC
+2018-03-28,Pabc Multi Space,Parking,Transportation,8,debit,Chase CC
+2018-03-28,Lucias,Restaurants,Food and dining,28.3,debit,Chase CC
+2018-03-29,Bar & Grill,Restaurants,Food and dining,31.9,debit,Chase CC
+2018-03-29,Vikki Fells Point,Restaurants,Food and dining,7.1,debit,Chase CC
+2018-03-29,CANTON CROSSING WINE SPT,Wine and spirits ,Food and dining,24,debit,Southwest CC
+2018-03-30,7-Eleven,Convenience Store,Food and dining,1.6,debit,Chase CC
+2018-03-30,HARRISTEETER #392,Groceries,Food and dining,15,debit,Southwest CC
+2018-03-30,BED BATH &amp; BEYOND #196,Household goods,Household,46.4,debit,Southwest CC
+2018-03-30,BARK! PIKESVILLE,Pet supply,Household,33.3,debit,Southwest CC
+2018-03-30,Chipotle,Restaurants,Food and dining,7.6,debit,Chase CC
+2018-03-31,ROYAL FARMS  063  Q79,Convenience Store,Food and dining,25.6,debit,Southwest CC
+2018-03-31,RICKS BEER WINE AND SPIRI,Wine and spirits ,Food and dining,19.1,debit,Southwest CC
+2018-04-01,National Golf Club,Golf,Entertainment,50,debit,Chase CC
+2018-04-01,Giant,Groceries,Food and dining,2.5,debit,Chase CC
+2018-04-01,Pabc Multi Space,Parking,Transportation,6.5,debit,Chase CC
+2018-04-01,Pabc Multi Space,Parking,Transportation,3.5,debit,Chase CC
+2018-04-01,Payment Thank You - Web,Payment,Credit,-961.3,credit,Southwest CC
+2018-04-01,Thank You Web,Payment,Credit,-464.4,credit,Chase CC
+2018-04-01,Samos Greek Island Grill,Restaurants,Food and dining,17.2,debit,Chase CC
+2018-04-02,Bge,Gas,Utilities,179.4,debit,Ally Checking
+2018-04-02,SHELL OIL 57525762704,Gas,Utilities,31.1,debit,Southwest CC
+2018-04-02,Pine Ridge Driving,Golf,Entertainment,9,debit,Chase CC
+2018-04-02,Pine Ridge Golf Concessio,Golf,Entertainment,38,debit,Chase CC
+2018-04-03,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-04-03,TRADER JOE'S #655  QPS,Groceries,Food and dining,65.8,debit,Southwest CC
+2018-04-04,ROYAL FARMS  111  Q79,Convenience Store,Food and dining,28.8,debit,Southwest CC
+2018-04-04,HARRISTEETER #392,Groceries,Food and dining,57.6,debit,Southwest CC
+2018-04-04,Frontpoint Security,Home Security,Housing,47.7,debit,Ally Checking
+2018-04-04,Pmi Gar 1530 Thames Street,Parking,Transportation,15,debit,Chase CC
+2018-04-04,Chipotle,Restaurants,Food and dining,9.1,debit,Chase CC
+2018-04-04,TARGET        00028456,Target,Household,7.3,debit,Southwest CC
+2018-04-05,Amazon,Amazon,Household,23.7,debit,Chase CC
+2018-04-05,Daily Grind Inc,Coffee shops & Bakeries,Food and dining,7.4,debit,Chase CC
+2018-04-05,Pabc Multi Space,Parking,Transportation,8,debit,Chase CC
+2018-04-05,Lucias,Restaurants,Food and dining,8.4,debit,Chase CC
+2018-04-06,Amazon,Amazon,Household,10.6,debit,Chase CC
+2018-04-06,E-ZPass,Refund,Credit,-34.4,credit,Chase CC
+2018-04-08,Lucias,Restaurants,Food and dining,8.9,debit,Chase CC
+2018-04-08,The Horse You Came In On,Restaurants,Food and dining,16.4,debit,Chase CC
+2018-04-09,AMAZON MKTPLACE PMTS,Amazon,Household,81.7,debit,Southwest CC
+2018-04-09,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-04-11,BP#8760753VALLEY AMOCO,Gas,Utilities,38,debit,Southwest CC
+2018-04-11,iTunes,iTunes,Entertainment,50,debit,Chase CC
+2018-04-11,Amtrak,Railroad service,Transportation,3,debit,Chase CC
+2018-04-11,Spring Street Wine,Wine and spirits ,Food and dining,16.3,debit,Chase CC
+2018-04-12,Java Moon,Coffee shops & Bakeries,Food and dining,9.1,debit,Chase CC
+2018-04-12,HARRISTEETER #392,Groceries,Food and dining,56.9,debit,Southwest CC
+2018-04-12,SAFEWAY #1481,Groceries,Food and dining,4.4,debit,Southwest CC
+2018-04-12,BED BATH &amp; BEYOND #174,Return,Credit,-25.4,Credit,Southwest CC
+2018-04-13,Pitango Pastry LLC,Coffee shops & Bakeries,Food and dining,6.1,debit,Chase CC
+2018-04-13,Zaros Bread Basket,Coffee shops & Bakeries,Food and dining,7.1,debit,Chase CC
+2018-04-13,ROYAL FARMS  062  Q79,Convenience Store,Food and dining,26.1,debit,Southwest CC
+2018-04-13,BARK! PIKESVILLE,Pet supply,Household,4.7,debit,Southwest CC
+2018-04-13,Target,Target,Household,20.2,debit,Chase CC
+2018-04-13,Canton Crossing Wine,Wine and spirits ,Food and dining,18.3,debit,Chase CC
+2018-04-15,SAFEWAY #1481,Groceries,Food and dining,3.7,debit,Southwest CC
+2018-04-15,Pech Ngorn,NA,Miscellaneous,45.8,debit,Chase CC
+2018-04-15,CHIPOTLE 1523,Restaurants,Food and dining,15.2,debit,Southwest CC
+2018-04-15,Royal Farms,Restaurants,Food and dining,6.8,debit,Chase CC
+2018-04-16,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
+2018-04-16,National Golf Club,Golf,Entertainment,384,debit,Chase CC
+2018-04-17,National Golf Club,Golf,Entertainment,17,debit,Chase CC
+2018-04-17,SAFEWAY #1481,Groceries,Food and dining,24.4,debit,Southwest CC
+2018-04-18,SHELL OIL 57525762704,Gas,Utilities,37.3,debit,Southwest CC
+2018-04-18,Balto City,Government fee,Housing,57.2,debit,Ally Checking
+2018-04-18,Waterfront Hotel,Hotel,Entertainment,50.9,debit,Chase CC
+2018-04-19,Honey Grow,Restaurants,Food and dining,13.5,debit,Chase CC
+2018-04-19,Lucias,Restaurants,Food and dining,16.9,debit,Chase CC
+2018-04-20,Vikki Fells Point,Restaurants,Food and dining,14.1,debit,Chase CC
+2018-04-22,HARRISTEETER #392,Groceries,Food and dining,100.2,debit,Southwest CC
+2018-04-22,SAMOS GREEK ISLAND GRILL,Restaurants,Food and dining,16.2,debit,Southwest CC
+2018-04-22,SQ *BMORE LICKS,Restaurants,Food and dining,11.5,debit,Southwest CC
+2018-04-22,VITAMINSHOPPE655,Vitamin,Health care,20,debit,Southwest CC
+2018-04-23,Apex Clearing Ach,Apex Clearing (Ally),Banking and Finance,150,debit,Ally Checking
